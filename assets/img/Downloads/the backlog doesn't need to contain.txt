@@ -1,0 +1,12 @@
+the backlog doesn't need to contain the KPIs, it should be what we implement 
+	the kpi -- pm 
+		what scanner to implement -- pm
+			user story - dev / eng 
+
+The scanners to implement should be on the backlog, we should just implement 
+		
+
+extending the capability of arm templates 
+	- can't configure scanner to find value in an array of objects 
+	- relationship between objects 
+	semantic understanding of conditions between objects 

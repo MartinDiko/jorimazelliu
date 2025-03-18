@@ -1,0 +1,45 @@
+Feedback on Ariel -- Martin Check 
+------------------------------------
+
+- Find integrations with R2D / Safefly
+	Cezar, Michael Keating, Andriy, Aisling -- 
+		Jump in to the Breeze integration with R2D 
+	Clear roles, timelines
+	From commit to release 
+	Engineer to Engineer conversations 
+
+------------------------------------
+
+3/10/2025
+Discussion with Yared on scope 
+
+1. Finish any of the DMS / Auto-PR work with Grafana - 20%
+	- I don't want to give this more a sprint time; starting from today. 
+	- Ideal state here is that we have:
+		1) Clean data for the DMS results 
+			- Check with Mike and Dean on the data issues; for example, eliminate all files that contain the words "test" or "unit test". 
+		2) the 'Create PR button' added to the ADX dashboards that Mike and Dean have built, plus, for the same buttons in Grafana, we'd like to receive an email of who clicked it plus any other metadata.
+	 
+
+
+2. Development of Scanners - You're the most senior in the team and need you to lead this area. Build an understanding of all the scanners we have built so far, what's in scope to be worked, and everything end to end. I'll share a lifecycle document. 
+	- I want you to hold yourself, Taimoor, and Ogaga accountable for their delivery. I'm giving you this power and permission to manage them. 
+	-  Hold the PMs accountable for providing scope and KPIs to build scanners for. 
+	- I want you to lead and think about the end to end experience of these scanners. 
+
+------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+1. Scanners 
+	Yared, Taimoor, and Ogaga 
+
+2. SRE TSG Bot
+	Ariel, Eilon, and Sukanth 
+
+Gap: 
+- No business drivers 
+- Strong project management skills 
+- Strong dependency management skills 
+
+
+Getting Breeze to prioritize our work 
+	- DMS 
+	- Feature requests 
+
+
+Sync with Eilon: 
+- More prescriptive updates on Stand-up, especially considering our PMs are not every technical 
+
+- As we think about your growth, I want you to take more ownership of features and proactively come to that decision to work on, instead of waiting for Ariel or me to provide a list of items. 
+
+- This is what's expected at the next level and I want us to think about what's needed to get there. 
+
+- 
+

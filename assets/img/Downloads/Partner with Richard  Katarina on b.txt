@@ -1,0 +1,100 @@
+Partner with Richard / Katarina on burning down the DMS Results 
+	// me: expand access to her team 
+	// define ownership for the process 
+	// Barney / Belgin on scanner work 
+		Sync with Ariel 
+
+	// Rest of your team to focus on burning down the DMS & PR results
+		burn down chart 
+		proof of relationship with Richard 
+		
+	// not open ended but prioritize to get it done by end of Selenium
+
+
+
+
+// TODO:
+	Meet with Ariel on process moving forward and his role 
+// grow linearly and impact shows exponentially 
+
+-------------
+
+
+•	What tools, processes, etc. get in the way of your teams' ability to move fast? 
+- Complex internal tools with poor guidance to onboard to; let's look at EV2 for example. Migrating your classic ev2 pipeline to managed SDP is extremely difficult. My team has identified many improvements to eliminating the cognitive load and complexity of ev2 documentation. This steep learning curve of these 1p tools impedes the engineers ability to adapt skills, and slows down development. 
+
+- Monolithic codebases: 
+
+- lack of dependency mapping between services and visualizations or diagrams that show the dependency between services 
+
+
+•	Are you able to invest what you feel is needed to improve your team productivity and velocity?  
+
+- Partially; constantly feeling blocked from hiring 
+
+•	What complaint (big or small) do you hear from your SWEs more than any other? 
+
+- program on top of program creating more and more KPIs for services to adopt, with no prioritization framework, no sense of priority. SFI program, QEI, Project Standard, and thousands of S360 KPI not scoped to those programs; all this is righteous work but no prioritization, urgency, dependency mapping or clarity between the kpis; a service starts on safe secret standard, spends a week trying to comprehend the KPI, only to find out that they should have adopted MISE first, etc. 
+
+
+•	What gives you energy being a SWE Manager at MS, vs what steals your energy. 
+- Gives energy: clear idea of what is the business problem we're trying to solve and putting that accountability on my team to solve it. 
+
+- Takes energy: services unwilling to converge on similar solutions; politics within L68+ and higher, egotism, blame that credit is not given, people not assuming best intent. bad hiring practices and rules that we end up hiring very incompetent developers. 
+
+
+•	If you had a magic wand, what would you fix? 
+
+- top down direction from Scott 
+---------------------------------------------------
+
+Meeting with Yared 
+
+- Do you like the work you're doing? Is there another area that you'd like to explore, within the context of our business objectives? 
+- Are you passionate about this space and motivated? 
+
+- Azure Build Health - what are the scenarios and how we integrate with it? 
+
+- What is the scenario on how do we use the Copilot SWE Agent? 
+
+- 
+
+Meeting with Ogaga 
+
+I give you to solve a problem; at your level, dealing with ambiguity is a requirement and a skill that you have. 
+
+So, the ask was to shift-left the NS2.2.1
+
+- What does success look like for the scanner? How do we roll it out to silent mode or production mode? What is the roll out plan? 
+- How will you report progress update to me? 
+- What are the consequences if you don't get this done? 
+
+-----------------------------------------
+
+Ogaga, I want to be very direct with you about a few areas that need immediate attention:
+
+Accountability for End-of-Week Reports
+The weekly reports are part of your performance improvement plan and are non-negotiable. I expect these reports to be thorough, accurate, and submitted on time. If something is unclear, it is your responsibility to reach out, clarify, and ensure the final version is complete.
+
+Dealing With Ambiguity at Level 64
+At Microsoft, a Level 64 Software Engineer should be comfortable defining success and tackling open-ended or vague asks without waiting for others to outline every step. For instance, if we need NS2.2.1 implemented:
+
+You should proactively figure out what success looks like for the scanner. Should it be in silent mode first, then production mode? What’s the rollout plan?
+Determine how you’ll keep me and the team informed along the way. The weekly report is a solid start, but you can also propose Slack updates, email summaries, or whatever method makes sense.
+Think through the consequences if you don’t meet deadlines. If the scanner isn’t done when promised, I get the blowback. That’s the type of impact you have at this level.
+Timely and Accurate Deliverables
+You need to be more diligent about ensuring deliverables are correct and on time. That means:
+
+Avoid sending the wrong document or reusing old files without updating them.
+Fill in all required sections, especially tables or action items, so we’re not left with blank spaces or incomplete thoughts.
+Work closely with our PM to create a clear, three-month roadmap that shows how you plan to scale our team’s impact.
+Put simply, this is about you owning your role, making sure the details are covered, and driving the work forward with minimal oversight. That’s what we expect at Level 64 here at Microsoft. I’m here to support you, but the responsibility to deliver remains on you.
+
+
+
+
+
+
+
+
+
